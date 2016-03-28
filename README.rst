@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -12,7 +14,7 @@
     wishbone.encode.msgpack
     =======================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Converts Python dict data structures to MSGPack format.
     -------------------------------------------------------
@@ -31,4 +33,3 @@
 
             - outbox
                |  Outgoing messges
-

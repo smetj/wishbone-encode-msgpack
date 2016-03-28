@@ -26,8 +26,8 @@ from setuptools import setup, find_packages
 from setuptools.command.test import test as TestCommand
 import sys, os
 
-PROJECT = 'wishbone-encode-msgpack'
-VERSION = '0.1.0'
+PROJECT = 'wishbone_encode_msgpack'
+VERSION = '1.0.0'
 
 install_requires = [
     'wishbone>=2.1.1',
